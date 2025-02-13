@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
