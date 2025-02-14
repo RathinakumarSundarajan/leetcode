@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0838-design-linked-list](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0838-design-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0007-reverse-integer) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
