@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0189-rotate-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3195-separate-black-and-white-balls](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Math
 |  |
 | ------- |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+## String
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3195-separate-black-and-white-balls) |
+## Greedy
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
