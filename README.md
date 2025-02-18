@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0189-rotate-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1848-sum-of-unique-elements](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0049-group-anagrams) |
 | [3195-separate-black-and-white-balls](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0075-sort-colors) |
 ## Counting
 |  |
