@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0229-majority-element-ii) |
 | [1848-sum-of-unique-elements](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0229-majority-element-ii) |
 | [1848-sum-of-unique-elements](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2388-replace-elements-in-an-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2388-replace-elements-in-an-array) |
@@ -70,10 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0229-majority-element-ii) |
 | [1848-sum-of-unique-elements](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1848-sum-of-unique-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
