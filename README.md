@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0229-majority-element-ii) |
+| [0506-relative-ranks](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0506-relative-ranks) |
 | [1848-sum-of-unique-elements](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0229-majority-element-ii) |
+| [0506-relative-ranks](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0506-relative-ranks) |
 ## Counting
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
