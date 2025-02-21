@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2388-replace-elements-in-an-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2388-replace-elements-in-an-array) |
+| [2487-optimal-partition-of-string](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Linked List
 |  |
@@ -68,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0049-group-anagrams) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [2487-optimal-partition-of-string](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |
 | ------- |
+| [2487-optimal-partition-of-string](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [3195-separate-black-and-white-balls](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
