@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0229-majority-element-ii) |
 | [0506-relative-ranks](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0506-relative-ranks) |
+| [0724-find-pivot-index](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0724-find-pivot-index) |
 | [1848-sum-of-unique-elements](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0506-relative-ranks) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
