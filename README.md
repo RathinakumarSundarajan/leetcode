@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2388-replace-elements-in-an-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2388-replace-elements-in-an-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0049-group-anagrams) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2487-optimal-partition-of-string](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2487-optimal-partition-of-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
@@ -107,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0724-find-pivot-index) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
