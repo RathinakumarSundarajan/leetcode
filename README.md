@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2388-replace-elements-in-an-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2388-replace-elements-in-an-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Dynamic Programming
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2388-replace-elements-in-an-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2388-replace-elements-in-an-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Linked List
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0189-rotate-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Design
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0229-majority-element-ii) |
 | [1848-sum-of-unique-elements](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
