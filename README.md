@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3228-maximum-size-of-a-set-after-removals](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3228-maximum-size-of-a-set-after-removals](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 ## Linked List
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2487-optimal-partition-of-string](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [3195-separate-black-and-white-balls](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3228-maximum-size-of-a-set-after-removals](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 ## Sorting
 |  |
 | ------- |
