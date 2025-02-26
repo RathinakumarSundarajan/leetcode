@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0049-group-anagrams) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2487-optimal-partition-of-string](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2487-optimal-partition-of-string](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [3195-separate-black-and-white-balls](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2634-minimum-common-value) |
+## Stack
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
