@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1319-unique-number-of-occurrences](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1848-sum-of-unique-elements](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0049-group-anagrams) |
+| [0451-sort-characters-by-frequency](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -109,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0506-relative-ranks) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1364-tuple-with-same-product](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1848-sum-of-unique-elements](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0506-relative-ranks) |
 ## Prefix Sum
 |  |
@@ -142,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
