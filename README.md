@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0229-majority-element-ii) |
 | [1364-tuple-with-same-product](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1848-sum-of-unique-elements](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2388-replace-elements-in-an-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2388-replace-elements-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0049-group-anagrams) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2487-optimal-partition-of-string](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0229-majority-element-ii) |
 | [1364-tuple-with-same-product](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1848-sum-of-unique-elements](https://github.com/RathinakumarSundarajan/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Divide and Conquer
