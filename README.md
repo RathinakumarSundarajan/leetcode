@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/RathinakumarSundarajan/leetcode/tree/master/2634-minimum-common-value) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3228-maximum-size-of-a-set-after-removals) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/RathinakumarSundarajan/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Linked List
 |  |
 | ------- |
