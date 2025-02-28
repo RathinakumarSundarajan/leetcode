@@ -146,9 +146,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/RathinakumarSundarajan/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
